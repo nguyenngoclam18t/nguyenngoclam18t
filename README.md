@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **Everything you can imagine is real :>**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
