@@ -19,4 +19,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenngoclam18t&show_icons=true&locale=en&layout=compact" alt="nguyenngoclam18t" /></p>
 
 
-![Snake animation](https://github.com/nguyenngoclam18t/nguyenngoclam18t/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+
