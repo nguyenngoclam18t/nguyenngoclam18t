@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nguyen Ngoc Lam</h1>
-<h3 align="center">A  developer from VietNam</h3>
+<h3 align="center">A mobile developer from VietNam</h3>
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.gif">
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning Flutter
 
 - 👨‍💻 All of my projects are available at [https://github.com/nguyenngoclam18t?tab=repositories](https://github.com/nguyenngoclam18t?tab=repositories)
 
